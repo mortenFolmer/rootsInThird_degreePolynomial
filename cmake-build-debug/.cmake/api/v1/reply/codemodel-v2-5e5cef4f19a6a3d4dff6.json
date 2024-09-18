@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rootsInThird_degreePolynomial",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rootsInThird_degreePolynomial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rootsInThird_degreePolynomial-Debug-3f22b996951408271ffb.json",
+					"name" : "rootsInThird_degreePolynomial",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mortenfolmernielsen/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/1 semester/IP/\u00d8velsestimer/CLionProjects/Opgaver/Uge 3/Uge37EkstraOpgaver/rootsInThird-degreePolynomial/cmake-build-debug",
+		"source" : "/Users/mortenfolmernielsen/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/1 semester/IP/\u00d8velsestimer/CLionProjects/Opgaver/Uge 3/Uge37EkstraOpgaver/rootsInThird-degreePolynomial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
